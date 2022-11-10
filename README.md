@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam221098
 - 👀 I’m interested in Python🐍
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning JavaScript, DSA, and Data Science
 
 <!---
 shivam221098/shivam221098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
