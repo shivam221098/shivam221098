@@ -7,7 +7,7 @@ I'm a passionate Software Engineer with expertise in python, SQL, JavaScript, Ap
 You can find me on [LinkedIn](https://www.linkedin.com/in/shivamsingh012/) or [Twitter](https://twitter.com/ShivamS85772954). Let's connect and chat!
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam221098&show_icons=true&hide_border=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam221098&show_icons=true)
 
 
 <!---
