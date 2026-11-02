@@ -30,4 +30,4 @@ I'm a Software Engineer specializing in data engineering, NLP, and cloud-based s
 I'm always open to networking and discussing innovative ideas! Connect with me on [LinkedIn](https://www.linkedin.com/in/shivamsingh012/).
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam221098&show_icons=true&theme=dracula)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shivam221098?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
