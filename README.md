@@ -27,7 +27,7 @@ I'm a Software Engineer specializing in data engineering, NLP, and cloud-based s
 - Optimizing ETL pipelines and real-time data processing
 
 ## 📫 Connect with Me
-I'm always open to networking and discussing innovative ideas! Connect with me on [LinkedIn](www.linkedin.com/in/connectshivamsingh).
+I'm always open to networking and discussing innovative ideas! Connect with me on [LinkedIn](https://www.linkedin.com/in/connectshivamsingh).
 
 ## 📊 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shivam221098?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
